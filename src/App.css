@@ -1,0 +1,14 @@
+.App{
+    height: 100vh;
+}
+
+.light{
+    background: url('./assets//imgs/clouds-g36cb609ef_1920.jpg') 50% no-repeat ;  
+}
+
+.dark {
+    background: url('./assets//imgs/heaven-g949430930_1920.jpg') 50% no-repeat ;
+}
+  
+
+  
